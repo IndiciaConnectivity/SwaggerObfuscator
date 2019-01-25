@@ -1,0 +1,12 @@
+C:\Users\luuk.naaijen@indicia.nl\Projects\ObfuscateSwagger\ObfuscateSwagger\bin\Debug\netcoreapp2.2\v1.json
+C:\Users\luuk.naaijen@indicia.nl\Projects\ObfuscateSwagger\ObfuscateSwagger\bin\Debug\netcoreapp2.2\ObfuscateSwagger.deps.json
+C:\Users\luuk.naaijen@indicia.nl\Projects\ObfuscateSwagger\ObfuscateSwagger\bin\Debug\netcoreapp2.2\ObfuscateSwagger.runtimeconfig.json
+C:\Users\luuk.naaijen@indicia.nl\Projects\ObfuscateSwagger\ObfuscateSwagger\bin\Debug\netcoreapp2.2\ObfuscateSwagger.runtimeconfig.dev.json
+C:\Users\luuk.naaijen@indicia.nl\Projects\ObfuscateSwagger\ObfuscateSwagger\bin\Debug\netcoreapp2.2\ObfuscateSwagger.dll
+C:\Users\luuk.naaijen@indicia.nl\Projects\ObfuscateSwagger\ObfuscateSwagger\bin\Debug\netcoreapp2.2\ObfuscateSwagger.pdb
+C:\Users\luuk.naaijen@indicia.nl\Projects\ObfuscateSwagger\ObfuscateSwagger\obj\Debug\netcoreapp2.2\ObfuscateSwagger.csprojAssemblyReference.cache
+C:\Users\luuk.naaijen@indicia.nl\Projects\ObfuscateSwagger\ObfuscateSwagger\obj\Debug\netcoreapp2.2\ObfuscateSwagger.csproj.CoreCompileInputs.cache
+C:\Users\luuk.naaijen@indicia.nl\Projects\ObfuscateSwagger\ObfuscateSwagger\obj\Debug\netcoreapp2.2\ObfuscateSwagger.AssemblyInfoInputs.cache
+C:\Users\luuk.naaijen@indicia.nl\Projects\ObfuscateSwagger\ObfuscateSwagger\obj\Debug\netcoreapp2.2\ObfuscateSwagger.AssemblyInfo.cs
+C:\Users\luuk.naaijen@indicia.nl\Projects\ObfuscateSwagger\ObfuscateSwagger\obj\Debug\netcoreapp2.2\ObfuscateSwagger.dll
+C:\Users\luuk.naaijen@indicia.nl\Projects\ObfuscateSwagger\ObfuscateSwagger\obj\Debug\netcoreapp2.2\ObfuscateSwagger.pdb
